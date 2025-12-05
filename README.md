@@ -64,7 +64,7 @@ These two files are required for inference.
 
 ---
 
-## 🌐 Streamlit Web App
+## Streamlit Web App
 
 The repository includes a `app.py` file that provides a simple UI for making predictions.
 
